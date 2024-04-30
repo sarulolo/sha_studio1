@@ -1,0 +1,1 @@
+# sha_studio1
