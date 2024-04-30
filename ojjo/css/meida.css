@@ -1,0 +1,25 @@
+@media (max-width: 990px) {
+    .navbar-nav{
+        background: #3f3f3fc0;
+        padding: 25px;
+    }
+    
+    .header__logo{
+        width: 100px;
+    }
+    
+    .header__nav-icon{
+        margin-left: 0;
+    }
+    
+    .header__nav-icon-link{
+        margin-left: 0;
+        margin-right: 20px;
+    }
+}
+
+@media (max-width: 410px) {
+    .header__text-title{
+        font-size: 25px;
+    }
+}
